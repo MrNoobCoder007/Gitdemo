@@ -1,0 +1,32 @@
+[33m51d81b5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: checkout: moving from prod to master
+[33m51d81b5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{1}: checkout: moving from master to prod
+[33m51d81b5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{2}: checkout: moving from dev to master
+[33m51d81b5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{3}: checkout: moving from master to dev
+[33m51d81b5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{4}: merge dev: Fast-forward
+[33m2fc85ce[m HEAD@{5}: checkout: moving from dev to master
+[33m51d81b5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{6}: commit: on dev 1st commit
+[33m2fc85ce[m HEAD@{7}: checkout: moving from master to dev
+[33m2fc85ce[m HEAD@{8}: merge feature: Fast-forward
+[33ma37505d[m HEAD@{9}: checkout: moving from feature to master
+[33m2fc85ce[m HEAD@{10}: commit: on feature 1st commit
+[33ma37505d[m HEAD@{11}: checkout: moving from master to feature
+[33ma37505d[m HEAD@{12}: commit: Add all in a single commit
+[33m9062700[m HEAD@{13}: reset: moving to 9062700
+[33m9062700[m HEAD@{14}: reset: moving to 9062700
+[33m27d803b[m HEAD@{15}: reset: moving to 27d803b
+[33m1195ce4[m HEAD@{16}: commit: removed file in file.txt
+[33m27d803b[m HEAD@{17}: commit: Added a new file in file.txt
+[33md0e740f[m HEAD@{18}: commit: Added a new line in index.htm
+[33m9062700[m HEAD@{19}: commit: Added a new index.html file
+[33mf2b279c[m HEAD@{20}: checkout: moving from 7512ec1b054c10e35fd47ba39f36e32012190a85 to master
+[33m7512ec1[m HEAD@{21}: commit: removed a new file.txt file
+[33m0c0c4d2[m HEAD@{22}: commit: removed a new file.txt file
+[33ma487bba[m HEAD@{23}: commit: correcting file details
+[33me5fc25b[m HEAD@{24}: commit: getting old files back index1.htm
+[33m708b953[m HEAD@{25}: checkout: moving from master to 708b953cbbd08e3a707638ec7d68e0e20cadeada
+[33mf2b279c[m HEAD@{26}: commit: dummy
+[33mc709912[m HEAD@{27}: commit: deleted indexhtml
+[33m58d6cc6[m HEAD@{28}: commit: deleted a filw
+[33m708b953[m HEAD@{29}: commit: deleted file
+[33m646b788[m HEAD@{30}: commit: After 1st edit on index1.html file
+[33m7a8d759[m HEAD@{31}: commit (initial): 1st commit from local
